@@ -4,7 +4,7 @@ Guess the 5-letter word in 7 tries. Desktop version of Wordle built with Python 
 
 ### 🧩 Features
 
-- 5-letter Wordle game, 6 attempts
+- 5-letter Wordle game, 7 attempts
 
 - Tile colors:
   🟩 Green (correct),

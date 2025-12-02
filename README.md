@@ -1,6 +1,6 @@
 # 🎮 Wordle – Python
 
-Guess the 5-letter word in 6 tries. Desktop version of Wordle built with Python and Tkinter.
+Guess the 5-letter word in 7 tries. Desktop version of Wordle built with Python and Tkinter.
 
 ### 🧩 Features
 
